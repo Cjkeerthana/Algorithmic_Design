@@ -1,5 +1,5 @@
 # AD_HW_4
-The repo contains Binary Heap homework 1 &amp; 2 
+Algortihmic Design Homework 4: Binary Heaps
 
 Homework 4  - Heaps 
 The AD_Bin_Heaps folder contains the implementation of Binary Heaps. 
