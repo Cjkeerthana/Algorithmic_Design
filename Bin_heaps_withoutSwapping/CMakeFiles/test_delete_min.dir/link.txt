@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/test_delete_min.dir/tests/test_delete_min.c.o  -o test_delete_min -Wl,-rpath,"/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_bin_heaps _1" libcommon.a libbinheap.so 

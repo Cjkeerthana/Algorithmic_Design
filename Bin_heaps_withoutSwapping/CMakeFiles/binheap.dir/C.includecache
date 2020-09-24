@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_bin_heaps _1/src/binheap.c
+binheap.h
+-
+string.h
+-
+stdio.h
+-
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_bin_heaps _1/src/total_orders.c
+stdlib.h
+-
+
+include/binheap.h
+stdlib.h
+-
+total_orders.h
+-
+
+include/total_orders.h
+
