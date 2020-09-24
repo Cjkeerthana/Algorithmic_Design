@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/test_insert.dir/tests/test_insert.c.o  -o test_insert -Wl,-rpath,/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_bin_heaps libcommon.a libbinheap.so 

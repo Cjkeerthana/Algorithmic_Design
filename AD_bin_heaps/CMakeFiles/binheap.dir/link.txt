@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libbinheap.so -o libbinheap.so CMakeFiles/binheap.dir/src/binheap.c.o CMakeFiles/binheap.dir/src/total_orders.c.o 
