@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/test_dijkstra.dir/main.c.o CMakeFiles/test_dijkstra.dir/dijkstra.c.o CMakeFiles/test_dijkstra.dir/weighted_graph.c.o CMakeFiles/test_dijkstra.dir/priority_queue.c.o CMakeFiles/test_dijkstra.dir/binheap.c.o CMakeFiles/test_dijkstra.dir/total_orders.c.o  -o test_dijkstra 
