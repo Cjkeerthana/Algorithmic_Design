@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/strassen_test.dir/main.c.o CMakeFiles/strassen_test.dir/matrix.c.o CMakeFiles/strassen_test.dir/strassen.c.o CMakeFiles/strassen_test.dir/test.c.o  -o strassen_test 

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/main.c
+stdio.h
+-
+test.h
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/test.h
+matrix.h
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/matrix.h
+strassen.h
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/strassen.h
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/matrix.c
+stdio.h
+-
+stdlib.h
+-
+matrix.h
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/matrix.h
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/matrix.h
+stdlib.h
+-
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/strassen.c
+matrix.h
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/matrix.h
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/strassen.h
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/test.c
+time.h
+-
+
+/home/cjkeerthana/Documents/AlogrithmicDesigns/AD_strassen_template/test.h
+
